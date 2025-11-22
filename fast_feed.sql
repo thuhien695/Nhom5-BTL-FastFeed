@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Máy chủ: 127.0.0.1
--- Thời gian đã tạo: Th11 22, 2025 lúc 04:52 PM
+-- Thời gian đã tạo: Th10 22, 2025 lúc 05:13 PM
 -- Phiên bản máy phục vụ: 10.4.32-MariaDB
 -- Phiên bản PHP: 8.2.12
 
@@ -51,8 +51,8 @@ INSERT INTO `comments` (`id`, `post_id`, `user_id`, `content`, `created_at`) VAL
 (9, 2, 3, 'Nghe thật thú vị, có lẽ du lịch lần tới, tôi sẽ ghé lại nơi đây!', '2025-11-22 03:20:49'),
 (10, 3, 3, 'Mọi người nhớ nghé Hội An nha, không những con người thân thiện mà đồ ăn ở đây cũng rất ngon nữa!', '2025-11-22 03:21:29'),
 (11, 2, 1, 'Cảm ơn những ý kiến của mọi người nhé! Chúc mọi người có những chuyến đi thật đáng nhớ!', '2025-11-22 03:23:03'),
-(12, 3, 1, 'Cảm ơn những chia sẻ của mọi người. Chúc mọi người luôn vui vẻ, bình an và cùng đón nhận những bài viết tiếp theo nhé!', '2025-11-12 03:24:47'),
-(13, 4, 1, 'Mọi người đã ai đến Huế chưa nhỉ? Nêu cảm nhận và chia sẻ để mọi người cùng biết nhé!', '2025-11-22 04:25:25');
+(12, 3, 1, 'Cảm ơn những chia sẻ của mọi người. Chúc mọi người luôn vui vẻ, bình an và cùng đón nhận những bài viết tiếp theo nhé!', '2025-11-22 03:24:47'),
+(13, 4, 1, 'Mọi người đã ai đến Huế chưa nhỉ? Nêu cảm nhận và chia sẻ để mọi người cùng biết nhé!', '2025-11-22 03:25:25');
 
 -- --------------------------------------------------------
 
